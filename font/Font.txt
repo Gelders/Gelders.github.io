@@ -1,5 +1,0 @@
-Font: VCR OSD Mono à € by Riciery Leal
-Maker of font: https://www.dafont.com/profile.php?user=777625
-Downloaded from: https://www.dafont.com/vcr-osd-mono.font
-
-Used for the IDLE screen (if you do nothing for 5 minutes on the website)
