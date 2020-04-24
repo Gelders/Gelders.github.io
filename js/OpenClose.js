@@ -9,23 +9,6 @@ var closeNote = document.getElementById("stickyCloseId");
             audioClose.play();
         };   
 
-//  Dit is om ervoor te zorgen dat de dail-up gezien kan worden
-var DailOpen = document.getElementById("draggableBellen");
-DailOpen.ondblclick = function () {
-        document.getElementById("dailIDShow").style.display = "block";
-        
-        // Play open sound
-        audioOpen.play();
-};
-    
-var DailClose = document.getElementById("dailMeCloseButtonID");
-DailClose.onclick = function() {
-    document.getElementById("dailIDShow").style.display = "none";
-
-    // Play close sound
-    audioClose.play();
-};
-
 //  Dit is om ervoor te zorgen dat de email gezien kan worden
 var EmailnOpen = document.getElementById("mailID");
 EmailnOpen.ondblclick = function () {
