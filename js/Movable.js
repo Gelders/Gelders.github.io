@@ -16,6 +16,5 @@ $( function() {
     $( "#showImgId2" ).draggable({ containment: "#containment-wrapper", scroll: false }); 
     $( "#emailMeIDShow" ).draggable({ containment: "#containment-wrapper", scroll: false });    
     $( "#linkedinID" ).draggable({ containment: "#containment-wrapper", scroll: false });  
-    $( "#dailIDShow" ).draggable({ containment: "#containment-wrapper", scroll: false });  
     $( "#draggableModal" ).draggable({ containment: "#containment-wrapper", scroll: false });    
 } );
