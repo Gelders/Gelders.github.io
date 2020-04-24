@@ -1,5 +1,7 @@
 # READEME.TXT
 
+UPDATING THIS WHOLE WEBSITE TO BE MOBILE FRIENDLY AND HAVE SCRIPT FOR UI CREATION.
+
 This is just a fun website that I made as a practice.
 I was just browsing the web and suddenly found a website 
 that indeed looked like a PC. I was hooked and then i made this.
