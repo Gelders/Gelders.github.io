@@ -6,14 +6,6 @@ EmailnOpen.onclick = function () {
         // Play open sound
         audioOpen.play();
 };
-    
-var EmailClose = document.getElementById("emailMeCloseButtonID");
-EmailClose.onclick = function() {
-    document.getElementById("emailMeIDShow").style.display = "none";
-
-    // Play close sound
-    audioClose.play();
-};
 
 // <!-- Dit is om ervoor te zorgen dat de GROOOOOOOOTE foto folder gezien kan worden via menu-->
 var photoIdMe = document.getElementById("photoIDMenu");

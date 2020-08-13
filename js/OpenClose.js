@@ -9,22 +9,22 @@ var closeNote = document.getElementById("stickyCloseId");
             audioClose.play();
         };   
 
-//  Dit is om ervoor te zorgen dat de email gezien kan worden
-var EmailnOpen = document.getElementById("mailID");
-EmailnOpen.ondblclick = function () {
-        document.getElementById("emailMeIDShow").style.display = "block";
+// //  Dit is om ervoor te zorgen dat de email gezien kan worden
+// var EmailnOpen = document.getElementById("mailID");
+// EmailnOpen.ondblclick = function () {
+//         document.getElementById("emailMeIDShow").style.display = "block";
         
-        // Play open sound
-        audioOpen.play();
-};
+//         // Play open sound
+//         audioOpen.play();
+// };
     
-var EmailClose = document.getElementById("emailMeCloseButtonID");
-EmailClose.onclick = function() {
-    document.getElementById("emailMeIDShow").style.display = "none";
+// var EmailClose = document.getElementById("emailMeCloseButtonID");
+// EmailClose.onclick = function() {
+//     document.getElementById("emailMeIDShow").style.display = "none";
 
-    // Play close sound
-    audioClose.play();
-};
+//     // Play close sound
+//     audioClose.play();
+// };
 
 //  Dit is om ervoor te zorgen dat de IG gezien kan worden
 var IGinOpen = document.getElementById("IgnImgID");
