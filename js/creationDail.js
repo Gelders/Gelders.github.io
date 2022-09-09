@@ -57,17 +57,17 @@ document.getElementById("draggableBellen").ondblclick = function () {
 
                     //<div><div><select><option>1
                     selectDail.appendChild(optionDail1 = document.createElement('option'));
-                    optionDail1.value = "0485231063";
+                    optionDail1.value = "0123456789";
                     optionDail1.innerHTML = "Mobile phone | Peter Gelders";
 
                     //<div><div><select><option>2
                     selectDail.appendChild(optionDail2 = document.createElement('option'));
-                    optionDail2.value = "Peter.Gelders@STUDENT.PXL.BE";
+                    optionDail2.value = "Peter@fake-email.com";
                     optionDail2.innerHTML = "Teams ID";
 
                     //<div><div><select><option>3
                     selectDail.appendChild(optionDail3 = document.createElement('option'));
-                    optionDail3.value = "11900696@student.pxl.be";
+                    optionDail3.value = "Peter@fake-email.com";
                     optionDail3.innerHTML = "Webx Teams";
 
             //<div><div>
