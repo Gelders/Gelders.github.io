@@ -203,7 +203,7 @@
             top: 50%;
             box-shadow: 3px 5px 3px 3px rgba(0, 0, 0, .3);
             font-family: "Comic Sans MS", "ComicSansMS", "MarkerFelt", "MarkerFelt-Thin", "Helvetica Neue Rounded", "Helvetica Rounded", "Helvetica Neue", sans-serif;
-            font-size: 25px; /*37px*/
+            font-size: 22px; /*37px*/
             padding: 5px;
             overflow: hidden;
         }
